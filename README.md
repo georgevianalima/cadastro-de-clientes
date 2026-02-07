@@ -2,6 +2,10 @@
 
 Uma aplicação web moderna para gerenciar o cadastro de clientes com React, Vite e API REST.
 
+## 📸 Screenshots
+
+![Projeto Funcionando](./src/assets/screenshot.png)
+
 ## 🎯 Funcionalidades
 
 - ✅ Listar todos os clientes cadastrados
@@ -9,12 +13,6 @@ Uma aplicação web moderna para gerenciar o cadastro de clientes com React, Vit
 - ✅ Deletar clientes
 - ✅ Interface responsiva e intuitiva
 - ✅ Integração com API REST
-
-## 📸 Screenshots
-
-![Projeto Funcionando](./screenshot.png)
-
-> Adicione a screenshot do projeto funcionando nesta pasta com o nome `screenshot.png`
 
 ## 🛠️ Tecnologias Utilizadas
 
