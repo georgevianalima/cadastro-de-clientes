@@ -4,7 +4,7 @@ Uma aplicação web moderna para gerenciar o cadastro de clientes com React, Vit
 
 ## 📸 Screenshots
 
-![Projeto Funcionando](./src/assets/screenshot.png)
+![Projeto Funcionando](./screenshot.png)
 
 ## 🎯 Funcionalidades
 
